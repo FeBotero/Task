@@ -11,7 +11,7 @@
         android:fullBackupContent="@xml/backup_rules"
         android:requestLegacyExternalStorage="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="Task"
+        android:label="task"
         android:supportsRtl="true"
         android:theme="@style/Theme.Task"
         tools:targetApi="31">
